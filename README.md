@@ -13,6 +13,11 @@ Solution complète de surveillance médicale avec toutes les fonctionnalités av
 
     pip install -r requirements.txt
 
+# RUN PROGRAM 
+
+        chmod +x Monitoring.py
+        python3 Monitoring.py
+
 # EXAMPLE
 
 <img width="430" height="482" alt="Screenshot_2025-09-18_20-22-50" src="https://github.com/user-attachments/assets/ef0d95c7-5789-47ea-b0ac-e464c62a0eca" />
