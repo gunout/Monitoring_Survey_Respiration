@@ -15,8 +15,8 @@ Solution complète de surveillance médicale avec toutes les fonctionnalités av
 
 # RUN PROGRAM 
 
-        chmod +x Monitoring.py
-        python3 Monitoring.py
+    chmod +x Monitoring.py
+    python3 Monitoring.py
 
 # EXAMPLE
 
